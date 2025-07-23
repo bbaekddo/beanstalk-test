@@ -1,0 +1,26 @@
+Dockerfile
+.dockerignore
+
+# dependencies
+node_modules
+
+# documents
+npm-debug.log
+README.md
+
+# env files
+.env*
+
+# git
+.git
+.gitignore
+
+# IDE
+.idea
+.next
+.windsurf*
+
+# etc
+.nyc_output
+.DS_Store
+*.tgz
