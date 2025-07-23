@@ -30,3 +30,8 @@ npm-debug.log*
 # IDE
 .idea
 .windsurf*
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
